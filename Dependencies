@@ -1,0 +1,22 @@
+Jar Dependencies - 
+commons-codec-1.6.jar
+commons-io-2.4.jar
+commons-lang3-3.1.jar
+commons-logging-1.1.jar
+gson-2.8.0.jar
+httpclient-4.3.1.jar
+httpcore-4.3.jar
+jackson-annotations-2.2.3.jar
+jackson-core-2.2.3.jar
+jackson-core-asl-1.9.2.jar
+jackson-databind-2.2.3.jar
+jackson-jaxrs-1.9.2.jar
+jackson-mapper-asl-1.9.2.jar
+jackson-xc-1.9.2.jar
+json-20160810.jar
+log4j-1.2.14.jar
+signpost-commonshttp4-1.2.1.2.jar
+signpost-core-1.2.1.2.jar
+slf4j-api-1.7.2.jar
+slf4j-jdk14-1.7.2.jar
+slf4j-log4j12-1.6.4.jar
